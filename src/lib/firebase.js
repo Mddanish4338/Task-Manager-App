@@ -3,13 +3,13 @@ import { getAuth } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyB0AVK2cJMoqu5w1iNqV867wcJ46yQbjvA",
-  authDomain: "coursecraft-2bd9a.firebaseapp.com",
-  projectId: "coursecraft-2bd9a",
-  storageBucket: "coursecraft-2bd9a.firebasestorage.app",
-  messagingSenderId: "16915243623",
-  appId: "1:16915243623:web:5099af4e8a29e41f3a2ac2",
-  measurementId: "G-7K2M61KT6R"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 // Initialize Firebase
